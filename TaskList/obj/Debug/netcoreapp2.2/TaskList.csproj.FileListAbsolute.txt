@@ -1,0 +1,22 @@
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.deps.json
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.runtimeconfig.json
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.runtimeconfig.dev.json
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.dll
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.pdb
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.csprojAssemblyReference.cache
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.AssemblyInfoInputs.cache
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.AssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.dll
+C:\Users\Deno\Documents\Grand Circus\capstone\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.pdb
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.deps.json
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.runtimeconfig.json
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.runtimeconfig.dev.json
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.dll
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\bin\Debug\netcoreapp2.2\TaskList.pdb
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.csprojAssemblyReference.cache
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.AssemblyInfoInputs.cache
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.AssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.dll
+C:\Users\Deno\Documents\Grand Circus\week 2\Day5\TaskList\TaskList\obj\Debug\netcoreapp2.2\TaskList.pdb
